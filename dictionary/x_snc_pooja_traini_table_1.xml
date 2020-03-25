@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table 1" max_length="40" name="x_snc_pooja_traini_table_1" type="collection">
+        <element label="Column 1" max_length="100" name="column_1" type="string"/>
+        <element label="Column 2" max_length="200" name="column_2" type="string"/>
+    </element>
+</database>

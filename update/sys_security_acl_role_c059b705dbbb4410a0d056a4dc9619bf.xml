@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 17:37:06</sys_created_on>
+        <sys_id>c059b705dbbb4410a0d056a4dc9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_pooja_traini_table_1.x_snc_pooja_traini.table_1_user</sys_name>
+        <sys_package display_value="pooja training" source="x_snc_pooja_traini">def8b3c1dbbb4410a0d056a4dc9619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pooja training">def8b3c1dbbb4410a0d056a4dc9619d2</sys_scope>
+        <sys_security_acl display_value="x_snc_pooja_traini_table_1">4459b705dbbb4410a0d056a4dc9619bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c059b705dbbb4410a0d056a4dc9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 17:37:06</sys_updated_on>
+        <sys_user_role display_value="x_snc_pooja_traini.table_1_user" name="x_snc_pooja_traini.table_1_user">6f49ffc1dbbb4410a0d056a4dc961979</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
